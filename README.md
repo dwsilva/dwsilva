@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm David 👋
 
 <!--
 **dwsilva/dwsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧑‍💻 I'm currently working at Movidesk
+- 🇧🇷 From Belém / Living in Floripa
+- 📓 I like to study about technologies and learn new skills
+- 💕 In love with Python and solving programming problems
+- 🌱 I'm studying Python, Big Data and Machine Learning
+- 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/david-couto-18ab4942/)
