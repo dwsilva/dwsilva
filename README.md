@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💻 I'm currently working at Zenvia
+- 🧑‍💻 I'm currently working at Indicium
 - 🇧🇷 From Belém / Living in Floripa
 - 📓 I like to study about technologies and learn new skills
 - 💕 In love with Python and solving programming problems
 - 🌱 I'm studying Python, Data Engineering, Big Data and Machine Learning
-- 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/david-couto-18ab4942/)
+- 🤝 You can also find me on [LinkedIn](https://www.linkedin.com/in/david-couto-dataengineer/)
